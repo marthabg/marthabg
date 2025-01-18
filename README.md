@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Martha</h1>
 <h3 align="center">Just starting my journey in the field of Data Science</h3>
 
-- 🌱 I’m currently learning **about neural networks**
+- 🌱 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
