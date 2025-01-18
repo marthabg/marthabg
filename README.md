@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Martha</h1>
-<h3 align="center">Just starting my journey in the field of Data Science</h3>
+<h3 align="center">Interested in Data Analysis</h3>
 
 - 🌱 
 
